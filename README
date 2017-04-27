@@ -1,0 +1,1 @@
+This is a JSON parser written in C++ that will read in JSON data from a file and be able to modify, read, and save the data back into JSON format.
